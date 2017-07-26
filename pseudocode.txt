@@ -1,0 +1,4 @@
+SIMPAN nilai dari satu kode
+HITUNG panjang dari nilai dan TAMPILKAN secara acak
+JIKA suatu nilai benar maka TAMPILKAN gambar benar
+JIKA suatu nilai salah maka TAMPILKAN gambar salah.
